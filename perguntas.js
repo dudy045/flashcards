@@ -1,59 +1,59 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Geografia',
+    'Qual a capital do Párana?',
+    'Curitiba'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Mecânica',
+    'Qual o raio de uma fresa topo de 10mm?',
+    '5'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Mecânica',
+    'Quantos mm tem uma barra de 3m?',
+    '3000'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'Mecânica',
+    'Quantas mm tem 1 polegada?',
+    '25,5'
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'Mecânica',
+    'Qual a medida de uma fresa topo 5/16?',
+    '7,9mm'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'Química',
+    'Qual é a formula da agua?',
+    'H2O'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'Serviços gerais',
+    'Você tem interesse em trabalhar com mecânica?',
+    'Sim'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'Mecânica',
+    'Qual o polímero mais usado nas indústrias?',
+    'Poliacetal'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'Mecânica',
+    'Qual o passe de rosca no M8?',
+    '1,25x'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'Mecânica',
+    'Quanto vale um quadrado de 1/4',
+    '6,4 '
 )
